@@ -8,7 +8,7 @@
 * [Taiwan Intelligent Home Corp.](https://www.tih.tw) (AS131639): IP resource
 * [Eons Data Communications Limited](#) (AS138997): PCCW transit
 * [Aperture Science Limited](https://apernet.io/) (AS38008): HKIX transit
-* [Hurricane Electric](https://bgp.he.net/) (AS6939): Global IPv6 Transit
+* [Hurricane Electric](https://bgp.he.net/) (AS6939): Global IPv6 transit
 
 ## Remark Links
 * [Project OFTEIN](https://github.com/OFTEIN-NET)
