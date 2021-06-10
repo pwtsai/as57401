@@ -1,4 +1,4 @@
-## About AS57401, please kindly find this [page](https://oftein.pwtsai.im).
+## About AS57401, please kindly find this [page](https://peering.oftein.net).
 * A non-profit network for research and education purposes.
 * A part of OpenFederation at Trans-Eurasia Information Network (TEIN) supported by ASI@Connect
 
