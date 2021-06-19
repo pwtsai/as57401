@@ -13,7 +13,7 @@
 * [Hurricane Electric](https://bgp.he.net/) (AS6939): Global IPv6 transit
 * [WhiteHat Security Corp.](#) (AS17628): IP resource
 * [W. Weber](#) (AS203661): IP resource
-* [fixmix Technologies](#) (AS211876): IP resource
+* [Fixmix Technologies Ltd.](#) (AS211876): IP resource
 
 ## Remark Links
 * [Project OFTEIN](https://github.com/OFTEIN-NET)
