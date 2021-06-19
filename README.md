@@ -4,7 +4,7 @@
 ## About OFTEIN Network (AS57401), please kindly find this [page](https://peering.oftein.net).
 * RIPE::AS-OFTEIN
 * A non-profit network for research and education purposes.
-* A part of OpenFederation at [Trans-Eurasia Information Network (TEIN)](https://www.tein3.net/) supported by [ASI@Connect](https://www.tein.asia/).
+* EU-APAC part of OpenFederation at [Trans-Eurasia Information Network (TEIN)](https://www.tein3.net/) supported by [ASI@Connect](https://www.tein.asia/).
 
 ## Acknowledgments
 * [Free Range Cloud Hosting Inc.](https://freerangecloud.com/) (AS53356): LIR service
