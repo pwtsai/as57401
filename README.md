@@ -5,7 +5,7 @@
 
 ## Acknowledgments
 * [Free Range Cloud Hosting Inc.](https://freerangecloud.com/) (AS53356): LIR service
-* [T.-Y. Yu](https://network.steveyi.net/) (AS60614): IP resource
+* [T.-Y. Yu](https://network.steveyi.net/) (AS60614): APAC transit and IP resource
 * [Taiwan Intelligent Home Corp.](https://www.tih.tw) (AS131639): IP resource
 * [Hurricane Electric](https://bgp.he.net/) (AS6939): Global IPv6 transit
 * [WhiteHat Security Corp.](#) (AS17628): IP resource
