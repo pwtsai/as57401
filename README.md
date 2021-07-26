@@ -21,5 +21,5 @@
 
 ## Remark Links
 * [Project OFTEIN](https://github.com/OFTEIN-NET)
-* [PeeringDB](https://www.peeringdb.com/asn/57401/)  
+* [PeeringDB](https://as57401.peeringdb.com/)  
 * [HE.NET](https://bgp.he.net/AS57401)  
