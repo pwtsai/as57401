@@ -13,7 +13,7 @@
 * [Taiwan Intelligent Home Corp.](https://www.tih.tw) (AS131639): IP resource
 * [Nato Research Ltd.](https://internet.nat.moe/) (AS46997): IP resource
 * [TUNNELBROKER.CH](https://www.tunnelbroker.ch/) (AS58057): IP resource 
-* [Hurricane Electric](https://bgp.he.net/) (AS6939): Global IPv6 transit
+* [Hurricane Electric](https://bgp.he.net/) (AS6939): IPv6 transit
 * [WhiteHat Security Corp.](#) (AS17628): IP resource
 * [W. Weber](#) (AS203661): IP resource
 * [Fixmix Technologies Ltd.](#) (AS211876): IP resource
