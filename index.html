@@ -25,6 +25,8 @@
     <!--[if lt IE 9]>
 		<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
+    <script src="./misc/ripestat.js"></script>
+    <link rel="stylesheet" href="./misc/ripestat.css" />	
 </head>
 <body>
     	<div class="wrapper">
@@ -80,12 +82,31 @@
 				<li><a href="https://gen.fixmix.network/" target="_blank">fixmix Technologies Ltd.</a> (AS211876): IP resource</li>
 				<li><a href="https://www.optixtransit.eu/" target="_blank">Optix Transit Ltd.</a> (AS211876): Global transit</li>
 			</ul>
+			<h2 id="remark-links">Statistics</h2>
+			<ul>
+				<li>Here's a live list of AS57401 peers, powered by <a href="https://stat.ripe.net" target="_blank">RIPEstat</a>.</li>
+				<li>Last update: <span class="last_update" id="last_update_transit_cust">loading...</span></li>
+				<br/>
+
+				<li>Current upstreams:</li>
+				<ul><div class="as_list_wrap">
+					<li><div class="as_list" id="list_transit">loading...</div></li>
+				</div></ul>
+				<li>Current peers:</li>
+				<ul><div class="as_list_wrap">
+					<li><div class="as_list" id="list_transit_peer">loading...</div></li>
+				</div></ul>
+				<li>Current downstreams:</li>
+				<ul><div class="as_list_wrap">
+					<li><div class="as_list" id="list_transit_cust">loading...</div></li>
+				</div></ul>
+			</ul>
 			<h2 id="remark-links">Remark Links</h2>
 			<ul>
-				<li><a href="https://github.com/OFTEIN-NET" target="_blank">OF@TEIN Github page</a></li>
 				<li><a href="https://as57401.peeringdb.com/" target="_blank">PeeringDB</a></li>
-				<li><a href="https://bgp.he.net/AS57401/" target="_blank">HE.NET</a></li>
-			</ul>
+				<li><a href="https://bgp.he.net/AS57401/" target="_blank">he.net</a></li>
+				<li><a href="https://bgp.tools/as/57401" target="_blank">bgp.tools</a></li>
+			</ul>	
 		</section>
 		<footer>
 		</footer>
