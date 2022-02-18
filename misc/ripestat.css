@@ -1,0 +1,20 @@
+.as_list_wrap {
+	padding-left: 1em;
+}
+
+.as_list {
+	display: flex;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	max-width: 500px;
+	padding-bottom: .5em;
+}
+
+.as_list_member {
+	width: 20%;
+}
+
+.date {
+	font-weight: bold;
+	font-family: 'Courier New', Courier, monospace;
+}
