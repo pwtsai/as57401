@@ -9,7 +9,7 @@
 ## Acknowledgments
 * [Free Range Cloud Hosting Inc.](https://freerangecloud.com/) (AS53356): LIR service
 * [iFog GmbH](https://ifog.ch/en/) (AS34927): EU transit
-* [T.-Y. Yu](https://network.steveyi.net/) (AS7480): HK transit and IP resource
+* [T.-Y. Yu](https://network.steveyi.net/) (AS7480): US transit and IP resource
 * [Taiwan Intelligent Home Corp.](https://www.tih.tw) (AS131639): IP resource
 * [Nato Research Ltd.](https://internet.nat.moe/) (AS46997): IP resource
 * [TUNNELBROKER.CH](https://www.tunnelbroker.ch/) (AS58057): IP resource 
